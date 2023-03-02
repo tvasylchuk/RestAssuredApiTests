@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5d39b1a5-34f2-456e-b22c-16807fe67f9a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTestsNG.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/study/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/apiTest/UserApiBaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/apiTest/UserApiDeleteTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/apiTest/UserApiGetTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/apiTest/UserApiPostTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/apiTest/UserApiPutTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/apiTest/starWarsApiTests/SWFilmApiTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/apiTest/starWarsApiTests/SWPlanetApiTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/framework/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/framework/apiSpecifications/Specification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/model/BaseLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/model/ErrorResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/model/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/model/RegisterLogonResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/model/UserCreateResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/model/UserData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/model/UserModified.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/model/starWars/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/model/starWars/Film.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/model/starWars/Planet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2M3MEEk9BGdDarWmN9NKF0XNDog" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/study/OnlinerLast/OnlinerInJavaServer&quot;
+  }
+}</component>
+  <component name="RunManager" selected="TestNG.D:/study/APITestingWithRestAssured/apiTestsNG.xml">
+    <configuration name="D:/study/APITestingWithRestAssured/apiTestsNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APITestingWithRestAssured" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/apiTestsNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SWFilmApiTests.getSWFilmPlanetUriTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APITestingWithRestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apiTest.starWarsApiTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="apiTest.starWarsApiTests" />
+      <option name="MAIN_CLASS_NAME" value="apiTest.starWarsApiTests.SWFilmApiTests" />
+      <option name="METHOD_NAME" value="getSWFilmPlanetUriTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SWPlanetApiTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APITestingWithRestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apiTest.starWarsApiTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="apiTest.starWarsApiTests" />
+      <option name="MAIN_CLASS_NAME" value="apiTest.starWarsApiTests.SWPlanetApiTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SWPlanetApiTests.getSWDessertPlanetCountTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APITestingWithRestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apiTest.starWarsApiTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="apiTest.starWarsApiTests" />
+      <option name="MAIN_CLASS_NAME" value="apiTest.starWarsApiTests.SWPlanetApiTests" />
+      <option name="METHOD_NAME" value="getSWDessertPlanetCountTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SWPlanetApiTests.getSWPlanetsPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APITestingWithRestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apiTest.starWarsApiTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="apiTest.starWarsApiTests" />
+      <option name="MAIN_CLASS_NAME" value="apiTest.starWarsApiTests.SWPlanetApiTests" />
+      <option name="METHOD_NAME" value="getSWPlanetsPageTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.D:/study/APITestingWithRestAssured/apiTestsNG.xml" />
+        <item itemvalue="TestNG.SWPlanetApiTests" />
+        <item itemvalue="TestNG.SWPlanetApiTests.getSWPlanetsPageTest" />
+        <item itemvalue="TestNG.SWPlanetApiTests.getSWDessertPlanetCountTest" />
+        <item itemvalue="TestNG.SWFilmApiTests.getSWFilmPlanetUriTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d39b1a5-34f2-456e-b22c-16807fe67f9a" name="Changes" comment="" />
+      <created>1676991701182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676991701182</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/apiTest/UserApiPutTests.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
