@@ -1,16 +1,11 @@
 package model;
 
-public class RegisterLogin {
-    private String email;
+public class Login extends BaseLogin{
     private String password;
 
-    public RegisterLogin(String email, String password) {
-        this.email = email;
+    public Login(String email, String password) {
+        super(email);
         this.password = password;
-    }
-
-    public String getEmail() {
-        return email;
     }
 
     public String getPassword() {

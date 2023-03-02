@@ -1,10 +1,10 @@
 package model;
 
-public class UserToCreate {
+public class User {
     private String name;
     private String job;
 
-    public UserToCreate(String name, String job) {
+    public User(String name, String job) {
         this.name = name;
         this.job = job;
     }
